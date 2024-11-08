@@ -1,3 +1,3 @@
 # 2024-Completed-Projects
 
-Various completed projects - Python
+Only Various completed projects - Python
